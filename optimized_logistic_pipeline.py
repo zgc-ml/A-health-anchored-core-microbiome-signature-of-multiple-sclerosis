@@ -33,8 +33,7 @@ Key design choices
 
 Important notes
 ---------------
-- This is a custom health classification model. It is NOT an official or
-  validated GMWI2 implementation.
+- This is a custom health classification model. 
 - CV tuning metrics are used for model selection and should not be reported
   as independent generalization performance.
 - Generalization performance should be judged using held-out validation and
